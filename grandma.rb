@@ -15,12 +15,12 @@
 
 
 def speak_to_grandma(phrase)
-  if phrase = I LOVE YOU GRANDMA!
+  if phrase == "I LOVE YOU GRANDMA!"
    puts "I LOVE YOU TOO PUMPKIN!"
 
-  elsif phrase = hi!
+  elsif phrase == "hi!"
    puts "HUH!?, SPEAK UP, SUNNY!"
 
-  elsif phase = Hi Nana, how are you?
+  elsif phase == Hi Nana, how are you?
    end
 end
