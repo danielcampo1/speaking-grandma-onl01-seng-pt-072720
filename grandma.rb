@@ -22,6 +22,6 @@ def speak_to_grandma(phrase)
    puts "HUH!?, SPEAK UP, SUNNY!"
 
   elsif phase == phrase.upcase
+   puts = "NO, NOT SINCE 1938!"
    end
-   puts = 
 end
