@@ -21,7 +21,9 @@ end
   if phrase == phrase.downcase
   return "HUH!?, SPEAK UP, SONNY!"
 
-  elsif phrase == phrase.upcase
-  return "NO, NOT SINCE 1938!"
+  if phrase != phrase.upcase
+  return "HUH!?, SPEAK UP, SONNY!"
+else
+  return not
    end
 end
