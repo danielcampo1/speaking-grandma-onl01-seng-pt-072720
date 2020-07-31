@@ -20,5 +20,4 @@ def speak_to_grandma(phrase)
    elsif phrase == hi!
    puts "HUH!?, SPEAK UP, SUNNY!" 
  elseif phase == Hi Nana, how are you?
-   
- end
+   end
